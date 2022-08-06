@@ -2,7 +2,7 @@
 
 In the United States, "pregnancy crisis centers" are often anti-abortion centers that trick pregnant people into thinking that they are getting abortion access and then instead try to persuade them to carry to term regardless of their health or personal circumstances. 
 
-This is a list of fake "crisis centers" for the state of New York.
+This is a list of fake "crisis centers" for the state of New York.  
 
 - www.aaapregnancyoptions.org
 - www.alightpc.org
@@ -71,4 +71,7 @@ This is a list of fake "crisis centers" for the state of New York.
 - www.womenscareroc.org
 - www.1stwaylifecenter.com
 - www.211lifeline.org
+
+
+Further information can be found on these websites: https://crisispregnancycentermap.com/, https://theoutline.com/post/4882/crisis-pregnancy-centers-new-york-pro-truth
 
